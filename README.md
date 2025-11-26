@@ -1,11 +1,12 @@
 <h2 align="left">Hey there! I'm Jordi</h2>
 
-### 👨🏻‍💻 &nbsp;About Me
-Recently graduated in Web Application Development (FP DAW) and seeking a position as a Junior Web Developer. Eager to apply my skills and continue learning in the field.
+👨🏻‍💻 About Me
 
-🎓 &nbsp;I am currently learning and practicing TypeScript, React, and Next.js, and improving my skills to build modern and efficient web applications.
+Recently graduated in Web Application Development (FP DAW), I am actively seeking a position as a Junior Web Developer. I am motivated, detail-oriented, and passionate about building clean, efficient, and modern web applications. My goal is to keep improving and grow professionally within the tech industry.
 
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+🎓 I am currently learning and practicing TypeScript, React, and Next.js, focusing on strengthening my frontend skills and developing real-world projects to expand my experience.
+
+
 
 ### 🛠 &nbsp;Languages
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)&nbsp;
@@ -13,6 +14,8 @@ Recently graduated in Web Application Development (FP DAW) and seeking a positio
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&labelColor=777BB4&logoColor=FFF)&nbsp;
+
+<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
 ### ⚛️ &nbsp;Frameworks & Libraries
 ![React](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge)&nbsp;
