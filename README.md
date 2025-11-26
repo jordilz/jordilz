@@ -15,8 +15,10 @@ Recently graduated in Web Application Development (FP DAW) and seeking a positio
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)&nbsp;
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)&nbsp;
 ![React](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge)&nbsp;
-### 🗃 &nbsp;Databases
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&labelColor=777BB4&logoColor=FFF)&nbsp;
 
+### 🗃 &nbsp;Databases
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
 
 ### 🧰 &nbsp;Version Controll & Tools 
