@@ -36,10 +36,3 @@
 ### 🎖 &nbsp;My Badges 
 
 [![An image of @adityakanoi's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/adityakanoi)](https://holopin.io/@adityakanoi)
-
-### 🤝🏻 &nbsp;Connect with Me
-
-<p align="center">
-<a href="www.linkedin.com/in/jordilizhang"><img src="https://img.shields.io/badge/-Aditya%20Sunit%20Kanoi-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:jordilizhang@gmail.com"><img src="https://img.shields.io/badge/-Adityakanoi-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-</p>
