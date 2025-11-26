@@ -1,4 +1,4 @@
-<h2 align="left">Hey there! I'm Jordi Li</h2>
+<h2 align="left">Hey there! I'm Jordi</h2>
 
 ### 👨🏻‍💻 &nbsp;About Me
 Recently graduated in Web Application Development (FP DAW) and seeking a position as a Junior Web Developer. Eager to apply my skills and continue learning in the field.
@@ -16,7 +16,7 @@ Recently graduated in Web Application Development (FP DAW) and seeking a positio
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)&nbsp;
 ![React](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge)&nbsp;
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&labelColor=777BB4&logoColor=FFF)&nbsp;
-
+![TS](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
 ### 🗃 &nbsp;Databases
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
