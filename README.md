@@ -3,8 +3,7 @@
 ### 👨🏻‍💻 &nbsp;About Me
 Recently graduated in Web Application Development (FP DAW) and seeking a position as a Junior Web Developer. Eager to apply my skills and continue learning in the field.
 
-👨‍💻 &nbsp;I am currently doing an internship at Pixeladas.es.\
-🎓 &nbsp;I am currently learning and practicing TypeScript, React, and Next.js, and improving my skills to build modern and efficient web applications.\
+🎓 &nbsp;I am currently learning and practicing TypeScript, React, and Next.js, and improving my skills to build modern and efficient web applications.
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
