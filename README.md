@@ -1,21 +1,23 @@
 <h2 align="left">Hey there! I'm Jordi Li</h2>
 
 ### 👨🏻‍💻 &nbsp;About Me
+Recently graduated in Web Application Development (FP DAW) and seeking a position as a Junior Web Developer. Eager to apply my skills and continue learning in the field.
 
 👨‍💻 &nbsp;I am currently doing an internship at Pixeladas.es.\
 🎓 &nbsp;I am currently learning and practicing TypeScript, React, and Next.js, and improving my skills to build modern and efficient web applications.\
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
-### 🛠 &nbsp;Tech Stack
+### 🛠 &nbsp;Technologies
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)&nbsp;
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)&nbsp;
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)&nbsp;
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,ts,figma,postman)](https://skillicons.dev)
+![React](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge)&nbsp;
 ### 🗃 &nbsp;Databases
+
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
 
 ### 🧰 &nbsp;Version Controll & Tools 
